@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kaleemgujjar07/1d-Array/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kaleemgujjar07/1d-Array/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/kaleemgujjar07/1d-Array/tree/master/1603-running-sum-of-1d-array) |
 | [2048-build-array-from-permutation](https://github.com/kaleemgujjar07/1d-Array/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/kaleemgujjar07/1d-Array/tree/master/2058-concatenation-of-array) |
@@ -27,8 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kaleemgujjar07/1d-Array/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kaleemgujjar07/1d-Array/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kaleemgujjar07/1d-Array/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kaleemgujjar07/1d-Array/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
