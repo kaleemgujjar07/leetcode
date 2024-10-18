@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kaleemgujjar07/1d-Array/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kaleemgujjar07/1d-Array/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kaleemgujjar07/1d-Array/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/kaleemgujjar07/1d-Array/tree/master/1603-running-sum-of-1d-array) |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kaleemgujjar07/1d-Array/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kaleemgujjar07/1d-Array/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
