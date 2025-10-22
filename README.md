@@ -27,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/kaleemgujjar07/leetcode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kaleemgujjar07/1d-Array/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kaleemgujjar07/1d-Array/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/kaleemgujjar07/leetcode/tree/master/0242-valid-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kaleemgujjar07/1d-Array/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kaleemgujjar07/1d-Array/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Counting
@@ -55,5 +57,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/kaleemgujjar07/leetcode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kaleemgujjar07/1d-Array/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
