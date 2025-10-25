@@ -60,5 +60,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/kaleemgujjar07/leetcode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kaleemgujjar07/1d-Array/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/kaleemgujjar07/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/kaleemgujjar07/leetcode/tree/master/1894-merge-strings-alternately) |
+## Math
+|  |
+| ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/kaleemgujjar07/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
