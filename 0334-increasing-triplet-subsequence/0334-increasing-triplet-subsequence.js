@@ -7,12 +7,12 @@ var increasingTriplet = function(nums) {
     let second  = Infinity;
 //[2,1,5,0,4,6]
     for(let num of nums){
-        if(num <= first){
-            first = num;//2 
+        if(num <= first){//0
+            first = num;
         } else if(num <= second){
-            second = num;//1
+            second = num;//4
         } else{
-            return true;//5<1
+            return true;
         }
     }
     return false;
