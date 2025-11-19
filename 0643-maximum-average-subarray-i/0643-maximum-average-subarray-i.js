@@ -1,16 +1,16 @@
 var findMaxAverage = function(nums, k) {
 
-    // pehli window ka sum
+    //[1,12,-5,-6,50,3], k = 4
     let sum = 0;
-    for (let i = 0; i < k; i++) {
-        sum += nums[i];
+    for (let i = 0; i < k; i++) {//
+        sum += nums[i];// sum = 2
     }
 
-    let maxSum = sum;
+    let maxSum = sum;// 2
 
     // window slide karna start
-    for (let i = k; i < nums.length; i++) {
-        sum = sum + nums[i] - nums[i - k];  // new add, old remove
+    for (let i = k; i < nums.length; i++) { // new add, old remove
+        sum = sum + nums[i] - nums[i - k];  // 2 + 50 - 1 = 51
         if (sum > maxSum) {
             maxSum = sum;
         }
