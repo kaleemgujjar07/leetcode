@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kaleemgujjar07/leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/kaleemgujjar07/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kaleemgujjar07/1d-Array/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kaleemgujjar07/1d-Array/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/kaleemgujjar07/leetcode/tree/master/0049-group-anagrams) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kaleemgujjar07/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kaleemgujjar07/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kaleemgujjar07/leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/kaleemgujjar07/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kaleemgujjar07/leetcode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/kaleemgujjar07/leetcode/tree/master/0682-baseball-game) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kaleemgujjar07/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
