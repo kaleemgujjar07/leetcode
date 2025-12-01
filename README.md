@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/kaleemgujjar07/1d-Array/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/kaleemgujjar07/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/kaleemgujjar07/leetcode/tree/master/0724-find-pivot-index) |
+| [0922-sort-array-by-parity-ii](https://github.com/kaleemgujjar07/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0932-monotonic-array](https://github.com/kaleemgujjar07/1d-Array/tree/master/0932-monotonic-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kaleemgujjar07/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kaleemgujjar07/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kaleemgujjar07/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kaleemgujjar07/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kaleemgujjar07/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0922-sort-array-by-parity-ii](https://github.com/kaleemgujjar07/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kaleemgujjar07/1d-Array/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kaleemgujjar07/1d-Array/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kaleemgujjar07/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kaleemgujjar07/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/kaleemgujjar07/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/kaleemgujjar07/leetcode/tree/master/0443-string-compression) |
+| [0922-sort-array-by-parity-ii](https://github.com/kaleemgujjar07/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kaleemgujjar07/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/kaleemgujjar07/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
