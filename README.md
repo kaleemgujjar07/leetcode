@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/kaleemgujjar07/1d-Array/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/kaleemgujjar07/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/kaleemgujjar07/leetcode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/kaleemgujjar07/leetcode/tree/master/0739-daily-temperatures) |
 | [0922-sort-array-by-parity-ii](https://github.com/kaleemgujjar07/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0932-monotonic-array](https://github.com/kaleemgujjar07/1d-Array/tree/master/0932-monotonic-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kaleemgujjar07/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kaleemgujjar07/leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaleemgujjar07/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/kaleemgujjar07/leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/kaleemgujjar07/leetcode/tree/master/0739-daily-temperatures) |
 ## Trie
 |  |
 | ------- |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kaleemgujjar07/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/kaleemgujjar07/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
