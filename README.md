@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/kaleemgujjar07/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2048-build-array-from-permutation](https://github.com/kaleemgujjar07/1d-Array/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/kaleemgujjar07/1d-Array/tree/master/2058-concatenation-of-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/kaleemgujjar07/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/kaleemgujjar07/1d-Array/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kaleemgujjar07/1d-Array/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kaleemgujjar07/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/kaleemgujjar07/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
