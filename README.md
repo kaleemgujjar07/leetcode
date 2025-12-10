@@ -135,11 +135,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kaleemgujjar07/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaleemgujjar07/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kaleemgujjar07/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kaleemgujjar07/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaleemgujjar07/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/kaleemgujjar07/leetcode/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kaleemgujjar07/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/kaleemgujjar07/leetcode/tree/master/0739-daily-temperatures) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kaleemgujjar07/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
