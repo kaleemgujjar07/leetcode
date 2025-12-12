@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/kaleemgujjar07/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kaleemgujjar07/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaleemgujjar07/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kaleemgujjar07/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/kaleemgujjar07/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/kaleemgujjar07/leetcode/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/kaleemgujjar07/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kaleemgujjar07/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/kaleemgujjar07/leetcode/tree/master/1004-max-consecutive-ones-iii) |
