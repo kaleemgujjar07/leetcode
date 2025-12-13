@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/kaleemgujjar07/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/kaleemgujjar07/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/kaleemgujjar07/leetcode/tree/master/0739-daily-temperatures) |
+| [0819-most-common-word](https://github.com/kaleemgujjar07/leetcode/tree/master/0819-most-common-word) |
 | [0922-sort-array-by-parity-ii](https://github.com/kaleemgujjar07/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0932-monotonic-array](https://github.com/kaleemgujjar07/1d-Array/tree/master/0932-monotonic-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kaleemgujjar07/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kaleemgujjar07/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kaleemgujjar07/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kaleemgujjar07/1d-Array/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0819-most-common-word](https://github.com/kaleemgujjar07/leetcode/tree/master/0819-most-common-word) |
 | [1207-unique-number-of-occurrences](https://github.com/kaleemgujjar07/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kaleemgujjar07/1d-Array/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kaleemgujjar07/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kaleemgujjar07/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0819-most-common-word](https://github.com/kaleemgujjar07/leetcode/tree/master/0819-most-common-word) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kaleemgujjar07/1d-Array/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/kaleemgujjar07/leetcode/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kaleemgujjar07/1d-Array/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/kaleemgujjar07/leetcode/tree/master/0443-string-compression) |
+| [0819-most-common-word](https://github.com/kaleemgujjar07/leetcode/tree/master/0819-most-common-word) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kaleemgujjar07/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kaleemgujjar07/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/kaleemgujjar07/leetcode/tree/master/1894-merge-strings-alternately) |
