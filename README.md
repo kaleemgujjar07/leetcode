@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/kaleemgujjar07/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1791-richest-customer-wealth](https://github.com/kaleemgujjar07/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kaleemgujjar07/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1920-build-array-from-permutation](https://github.com/kaleemgujjar07/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2048-build-array-from-permutation](https://github.com/kaleemgujjar07/1d-Array/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/kaleemgujjar07/1d-Array/tree/master/2058-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kaleemgujjar07/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/kaleemgujjar07/leetcode/tree/master/0682-baseball-game) |
+| [1920-build-array-from-permutation](https://github.com/kaleemgujjar07/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2048-build-array-from-permutation](https://github.com/kaleemgujjar07/1d-Array/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/kaleemgujjar07/1d-Array/tree/master/2058-concatenation-of-array) |
 ## Hash Table
