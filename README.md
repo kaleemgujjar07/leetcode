@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/kaleemgujjar07/leetcode/tree/master/0819-most-common-word) |
 | [1207-unique-number-of-occurrences](https://github.com/kaleemgujjar07/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kaleemgujjar07/1d-Array/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1657-determine-if-two-strings-are-close](https://github.com/kaleemgujjar07/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kaleemgujjar07/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kaleemgujjar07/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sorting
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/kaleemgujjar07/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kaleemgujjar07/1d-Array/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kaleemgujjar07/1d-Array/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1657-determine-if-two-strings-are-close](https://github.com/kaleemgujjar07/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kaleemgujjar07/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Counting
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kaleemgujjar07/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0819-most-common-word](https://github.com/kaleemgujjar07/leetcode/tree/master/0819-most-common-word) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kaleemgujjar07/1d-Array/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1657-determine-if-two-strings-are-close](https://github.com/kaleemgujjar07/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/kaleemgujjar07/leetcode/tree/master/0819-most-common-word) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kaleemgujjar07/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kaleemgujjar07/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1657-determine-if-two-strings-are-close](https://github.com/kaleemgujjar07/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/kaleemgujjar07/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
