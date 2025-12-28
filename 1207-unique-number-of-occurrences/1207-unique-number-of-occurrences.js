@@ -1,4 +1,5 @@
 var uniqueOccurrences = function(arr) {
+    // Step 1: Count frequencies manually
     let freq = {};
 
     for (let i = 0; i < arr.length; i++) {
@@ -11,6 +12,7 @@ var uniqueOccurrences = function(arr) {
         }
     }
 
+    // Step 2: Check if frequency values are unique
     let seen = {};
 
     for (let key in freq) {
@@ -19,6 +21,7 @@ var uniqueOccurrences = function(arr) {
         if (seen[count] === undefined) {
             seen[count] = true;
         } else {
+            // Duplicate frequency found
             return false;
         }
     }
