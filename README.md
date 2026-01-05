@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/kaleemgujjar07/1d-Array/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/kaleemgujjar07/1d-Array/tree/master/2058-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kaleemgujjar07/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/kaleemgujjar07/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/kaleemgujjar07/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2048-build-array-from-permutation](https://github.com/kaleemgujjar07/1d-Array/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/kaleemgujjar07/1d-Array/tree/master/2058-concatenation-of-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/kaleemgujjar07/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/kaleemgujjar07/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kaleemgujjar07/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kaleemgujjar07/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/kaleemgujjar07/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/kaleemgujjar07/leetcode/tree/master/1791-richest-customer-wealth) |
+| [2352-equal-row-and-column-pairs](https://github.com/kaleemgujjar07/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Stack
 |  |
 | ------- |
