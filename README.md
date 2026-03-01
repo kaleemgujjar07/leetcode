@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/kaleemgujjar07/1d-Array/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/kaleemgujjar07/1d-Array/tree/master/2058-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/kaleemgujjar07/leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/kaleemgujjar07/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kaleemgujjar07/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/kaleemgujjar07/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/kaleemgujjar07/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2390-removing-stars-from-a-string](https://github.com/kaleemgujjar07/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaleemgujjar07/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/kaleemgujjar07/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/kaleemgujjar07/leetcode/tree/master/0739-daily-temperatures) |
+| [2390-removing-stars-from-a-string](https://github.com/kaleemgujjar07/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Trie
 |  |
 | ------- |
