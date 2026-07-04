@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kaleemgujjar07/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kaleemgujjar07/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/kaleemgujjar07/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kaleemgujjar07/1d-Array/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kaleemgujjar07/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/kaleemgujjar07/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/kaleemgujjar07/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/kaleemgujjar07/leetcode/tree/master/0219-contains-duplicate-ii) |
