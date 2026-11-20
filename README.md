@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kaleemgujjar07/leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaleemgujjar07/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/kaleemgujjar07/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/kaleemgujjar07/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/kaleemgujjar07/leetcode/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/kaleemgujjar07/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -264,4 +265,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/kaleemgujjar07/leetcode/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/kaleemgujjar07/leetcode/tree/master/0455-assign-cookies) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kaleemgujjar07/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kaleemgujjar07/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
